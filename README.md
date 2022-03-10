@@ -1,5 +1,11 @@
 # Note Taker
 
+
+![notetaker 1](https://user-images.githubusercontent.com/89421292/157746122-dab367ef-df93-495b-91d4-311f8c20c097.PNG)
+![notetaker 2](https://user-images.githubusercontent.com/89421292/157746127-37b12aec-97b6-4371-9f57-77eb69b1c7f5.PNG)
+
+
+
 ## Description
   
   This app allows one to easily maintain a list of notes.
